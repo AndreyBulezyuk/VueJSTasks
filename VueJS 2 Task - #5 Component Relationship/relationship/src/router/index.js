@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import DataSourceList from '../views/DataSourceList.vue'
+import CustomizeDonut from '../components/CustomizeDonut.vue'
 
 Vue.use(VueRouter)
 
@@ -8,7 +9,12 @@ const routes = [
   {
     path: '/',
     name: 'home',
-    component: Home
+    component: DataSourceList
+  },
+  {
+    path: '/CustomizeDonut',
+    name: 'CustomizeDonut',
+    component: CustomizeDonut
   },
   {
     path: '/about',
