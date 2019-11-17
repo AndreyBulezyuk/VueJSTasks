@@ -13,11 +13,11 @@ https://git-academy.com/vuejs-practice-routing/
 # Task 3 - Instance Management
 https://git-academy.com/vuejs-practice-instance-management/
 
-# Task 4 - 
+# Task 4 - Vuex Store
 https://git-academy.com/vuejs-practice-vuex-store/
 
-# Task 5 - 
+# Task 5 - Component Relationships
 https://git-academy.com/vuejs-tutorial-component-relationships/
 
-# Task 6 - 
+# Task 6 - Template Syntax
 https://git-academy.com/vuejs-tutorial-template-syntax/
